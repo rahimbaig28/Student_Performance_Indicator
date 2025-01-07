@@ -10,7 +10,7 @@ Welcome to my first machine learning project! This project demonstrates fundamen
 - [Project Structure]
 
 ## Project Overview
-In this project, I applied various data preprocessing steps and trained a machine learning model to predict target outcomes. The dataset used is [Dataset Name] (or provide a brief description if it's a generic dataset), and the main objective is to demonstrate the end-to-end ML workflow.
+In this project, I applied various data preprocessing steps and trained a machine learning model to predict target outcomes. the main objective is to demonstrate the end-to-end ML workflow.
 
 
 # what this Project is going to be about 
