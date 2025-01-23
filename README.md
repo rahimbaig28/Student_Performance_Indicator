@@ -19,9 +19,13 @@ This is used to predict student performance by looking at different factors. It 
 
 ### Key Steps
 - Data Cleaning
+
 - Feature Engineering
+
 - Model Selection
+
 - Hyperparameter Tuning
+
 - Model Evaluation
 
 
@@ -29,6 +33,8 @@ This is used to predict student performance by looking at different factors. It 
 
 python -m venv env
 source env/bin/activate # On Windows use `env\Scripts\activate`
+
+
 
 ## Install required packages
 
